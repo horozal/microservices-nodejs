@@ -1,5 +1,5 @@
 # microservices-nodejs
-Repository template for a microservices architecture in Node.js with a ```service``` module
+Repository template for a Node.js project using a single microservice ```service```.
 
 To start the script, run:
 
